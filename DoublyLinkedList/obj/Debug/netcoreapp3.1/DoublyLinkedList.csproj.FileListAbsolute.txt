@@ -1,0 +1,14 @@
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.exe
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.deps.json
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.json
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.runtimeconfig.dev.json
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\bin\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.AssemblyReference.cache
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfoInputs.cache
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.AssemblyInfo.cs
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.dll
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.pdb
+C:\Users\Андрей\Desktop\Код\DoublyLinkedList\DoublyLinkedList\obj\Debug\netcoreapp3.1\DoublyLinkedList.genruntimeconfig.cache
