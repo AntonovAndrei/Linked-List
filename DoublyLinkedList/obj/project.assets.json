@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\Андрей\\.nuget\\packages\\": {}
+    "C:\\Users\\пользователь\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Андрей\\Desktop\\Код\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
+      "projectUniqueName": "C:\\Users\\пользователь\\Source\\Repos\\Linked-List\\DoublyLinkedList\\DoublyLinkedList.csproj",
       "projectName": "DoublyLinkedList",
-      "projectPath": "C:\\Users\\Андрей\\Desktop\\Код\\DoublyLinkedList\\DoublyLinkedList\\DoublyLinkedList.csproj",
-      "packagesPath": "C:\\Users\\Андрей\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Андрей\\Desktop\\Код\\DoublyLinkedList\\DoublyLinkedList\\obj\\",
+      "projectPath": "C:\\Users\\пользователь\\Source\\Repos\\Linked-List\\DoublyLinkedList\\DoublyLinkedList.csproj",
+      "packagesPath": "C:\\Users\\пользователь\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\пользователь\\Source\\Repos\\Linked-List\\DoublyLinkedList\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Андрей\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\пользователь\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

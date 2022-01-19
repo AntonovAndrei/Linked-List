@@ -15,5 +15,10 @@ namespace DoublyLinkedList
             }
             return result;
         }
+
+        public void PrintMinion()
+        {
+            Console.WriteLine($"Имя - {Name}, возраст - {Age};");
+        }
     }
 }
