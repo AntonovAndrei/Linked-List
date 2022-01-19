@@ -105,6 +105,40 @@ namespace DoublyLinkedList
             }
         }
 
+        public void RemoveAt(int index)
+        {
+            if (index < this.Size)
+            {
+                if (index == 0)
+                {
+                    RemoveFirst();
+                }
+                else if (index == Size)
+                {
+                    RemoveLast();
+                }
+                else
+                {
+                    var node = this._head;
+                    for (int i = 0; i < index; i++)
+                    {
+                        node = node.Next;
+                    }
+
+                    var next = node.Next;
+                    var previous = node.Previous;
+
+                    next.Previous = previous;
+                    previous.Next = next;
+                }
+
+                this.Size--;
+            }
+            else
+            {
+                throw new ArgumentOutOfRangeException();
+            }
+        }
         public void Set(int index, T item)
         {
             if (index < this.Size)

@@ -36,19 +36,19 @@ namespace DoublyLinkedList
                         Console.Write("Введите имя миньона которого вы хотитие удалить: ");
                         string name = Console.ReadLine();
 
-                        List<string> allText = new List<string>();
+                        DoubleLinkedList<string> allText = new DoubleLinkedList<string>();
                         using (StreamReader sr = new StreamReader(path, System.Text.Encoding.Default))
                         {
                             String line;
                             while ((line = sr.ReadLine()) != null)
                             {
-                                allText.Add(line);
+                                allText.AddLast(line);
                             }
                         }
 
 
                         bool isDeleted = false;
-                        for(int i = 0; i < allText.Count; i++)
+                        for(int i = 0; i < allText.Size; i++)
                         {
                             if (allText[i].Contains(name))
                             {
@@ -70,7 +70,7 @@ namespace DoublyLinkedList
 
                         using (StreamWriter sw = new StreamWriter(path, false))
                         {
-                            for (int j = 0; j < allText.Count; j++)
+                            for (int j = 0; j < allText.Size; j++)
                                 sw.WriteLine(allText[j]);
                         }
                     }
